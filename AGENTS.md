@@ -1,4 +1,4 @@
-# AGENTS.md — spec-driven-scaffold
+# AGENTS.md — scaffold-faahp
 
 The public home of the spec-driven scaffold process; scaffolded per its
 own standard (`skills/scaffold-project/`).

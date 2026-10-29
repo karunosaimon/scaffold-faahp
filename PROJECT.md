@@ -1,4 +1,4 @@
-# PROJECT.md — spec-driven-scaffold
+# PROJECT.md — scaffold-faahp
 
 Guidance: `AGENTS.md`.
 
